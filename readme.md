@@ -1,6 +1,8 @@
 CONTRIBUTORS:
-
 Oleg Salei
 
+Version:
+
+
 Another information:
-v.0.0.1
+
