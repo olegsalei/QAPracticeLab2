@@ -1,2 +1,3 @@
-Contributors:
+CONTRIBUTORS:
+
 Oleg Salei
